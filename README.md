@@ -25,7 +25,7 @@ Print the number of words
 
 ## PROGRAM:
 ```
-Developed by: kabilan V
+Developed by: Pravin aj.A
 RegisterNumber: 212222240079
 import sys
 fp=open(sys.argv[1],'r')
